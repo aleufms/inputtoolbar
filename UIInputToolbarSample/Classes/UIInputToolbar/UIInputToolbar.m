@@ -39,8 +39,8 @@
     }
     
     /* Remove the keyboard and clear the text */
-    [self.textView resignFirstResponder];
-    [self.textView clearText];
+//    [self.textView resignFirstResponder];
+//    [self.textView clearText];
 }
 
 -(void)setupToolbar:(NSString *)buttonLabel
